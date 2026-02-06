@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 首页 -->
+  <url>
+    <loc>https://www.duoduokai.shop/</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+
+  <!-- 多多开品牌页面 -->
+  <url>
+    <loc>https://www.duoduokai.shop/duoduokai</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- 拼多多功能页面 -->
+  <url>
+    <loc>https://www.duoduokai.shop/pinduoduo</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 批量退款功能 -->
+  <url>
+    <loc>https://www.duoduokai.shop/batch-refund</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 淘宝功能页面 -->
+  <url>
+    <loc>https://www.duoduokai.shop/taobao</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 抖音功能页面 -->
+  <url>
+    <loc>https://www.duoduokai.shop/douyin</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 常见问题 -->
+  <url>
+    <loc>https://www.duoduokai.shop/fqa</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- 更新日志 -->
+  <url>
+    <loc>https://www.duoduokai.shop/changelog</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 终身会员 -->
+  <url>
+    <loc>https://www.duoduokai.shop/lifetime-member</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 签到页面 -->
+  <url>
+    <loc>https://www.duoduokai.shop/checkin</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- 提现页面 -->
+  <url>
+    <loc>https://www.duoduokai.shop/withdraw</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- 活动规则 -->
+  <url>
+    <loc>https://www.duoduokai.shop/activity-rules</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- 预览页面 -->
+  <url>
+    <loc>https://www.duoduokai.shop/preview</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- 隐私政策 -->
+  <url>
+    <loc>https://www.duoduokai.shop/privacy</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- 服务条款 -->
+  <url>
+    <loc>https://www.duoduokai.shop/terms</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

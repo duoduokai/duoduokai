@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# 允许抓取所有页面
+Allow: /src/
+Allow: /components/
+Allow: /pages/
+
+# 禁止抓取管理页面（如果有的话）
+Disallow: /admin/
+Disallow: /private/
+
+# 网站地图位置
+Sitemap: https://duoduokai.shop/sitemap.xml
+
+# 抓取延迟（可选）
+Crawl-delay: 1
