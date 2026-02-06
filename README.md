@@ -1,7 +1,7 @@
 # 多多开 - 拼多多买家订单管理助手
 
 <div align="center">
-  <img src="images/logo.png" alt="多多开Logo" width="120">
+  <img src="images/logo.svg" alt="多多开Logo" width="120">
   <h3>电商物流查询、企业采购对账、个人年度账单</h3>
 </div>
 
