@@ -106,10 +106,10 @@
 
 ## 📝 相关文档
 
-- [隐私政策](./pages/privacy.html)
-- [使用条款](./pages/terms.html)
-- [常见问题](./pages/faq.html)
-- [更新日志](./pages/changelog.html)
+- [隐私政策](https://www.duoduokai.shop/privacy)
+- [使用条款](https://www.duoduokai.shop/terms)
+- [常见问题](https://www.duoduokai.shop/fqa)
+- [更新日志](https://www.duoduokai.shop/changelog)
 
 ---
 
