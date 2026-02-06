@@ -1,0 +1,1 @@
+import{f as e,e as t}from"./BackButton-Crhaa-PS.js";import{j as r,aH as o,az as m}from"./mui-C7so6SPd.js";import{P as i}from"./Privacy-kbM8Bpnk.js";import"./vendor-gH-7aFTg.js";import"./motion-DFvL2RdT.js";import"./router-AaSq09xW.js";e.createRoot(document.getElementById("root")).render(r.jsx(o.StrictMode,{children:r.jsx(m,{theme:t,children:r.jsx(i,{})})}));
